@@ -36,7 +36,7 @@ pip install jupyter
 ```
 ##### 2 Then clone the project repository to your computer:
 ```terminal
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Zehguto/COVID-19.git
 ```
 ##### 3 Access the project directory:
 ```terminal
@@ -48,7 +48,7 @@ cd repository-name
 pip install pandas matplotlib seaborn
 ```
 ## Executing the Code
-##### Abra o Jupyter Notebook executando o seguinte comando no diretório do projeto:
+##### Open the Jupyter Notebook by running the following command in your project directory:
 ```terminal
 jupyter notebook
 ```
