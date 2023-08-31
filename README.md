@@ -40,7 +40,7 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
 ##### 3 Access the project directory:
 ```terminal
-cd nome-do-repositorio
+cd repository-name
 ```
 ##### 4 Install the necessary libraries by running the command:
 
